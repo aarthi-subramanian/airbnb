@@ -1,5 +1,3 @@
-# Kaggle Project 12/03/18
-
 ### Load dependencies:
 #install.packages('dummies')
 #install.packages('ggRandomForests')
